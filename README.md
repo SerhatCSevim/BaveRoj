@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaveRoj
+- 👋 Hi, I’m Serhat
 - 👀 I’m a freshman there.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on any beginner friendly Python or Java project.
